@@ -1,4 +1,4 @@
-# 🪓 evtx-hunting-writeup
+#evtx-hunting-writeup
 
 Caza de amenazas ("threat hunting") sobre logs de Windows usando **Chainsaw** + reglas **Sigma**, con un writeup de tres ataques reales de laboratorio: qué técnica es, qué evento la delata y qué haría un analista después.
 
