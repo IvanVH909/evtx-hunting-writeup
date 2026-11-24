@@ -1,4 +1,4 @@
-#evtx-hunting-writeup
+# evtx-hunting-writeup
 
 Caza de amenazas ("threat hunting") sobre logs de Windows usando **Chainsaw** + reglas **Sigma**, con un writeup de tres ataques reales de laboratorio: qué técnica es, qué evento la delata y qué haría un analista después.
 
@@ -131,3 +131,17 @@ Un resultado de Chainsaw es una **pista**, no un veredicto. En esta ejecución, 
 
 - [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) por @sbousseaden (GPL-3.0). Las muestras **no** se incluyen en este repo.
 - [Chainsaw](https://github.com/WithSecureLabs/chainsaw) (WithSecure Labs) y [Sigma](https://github.com/SigmaHQ/sigma).
+
+## Autor
+**Iván Vázquez Hernández**
+
+GitHub: [@IvanVH909](https://github.com/IvanVH909)
+
+Otros proyectos:
+
+- [ioc-triage](https://github.com/IvanVH909/ioc-triage)
+- [ssh-bruteforce-detector](https://github.com/IvanVH909/ssh-bruteforce-detector)
+
+---
+
+*Proyecto personal de ciberseguridad orientado al Threat Hunting, el análisis de eventos de Windows y la identificación de técnicas de ataque mediante reglas de detección.*
